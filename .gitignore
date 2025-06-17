@@ -1,0 +1,11 @@
+subtitle_env
+ai_subtitles.log
+**/__pycache__/
+*.pyc
+uploads/
+outputs/
+cert.pem
+key.pem
+certbot/www/
+certbot-etc/
+.env
